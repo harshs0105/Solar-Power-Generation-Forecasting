@@ -51,11 +51,11 @@ Solar Irradiation (W/m²): The solar radiation received by the solar panels.
 Models Used
 The application utilizes the following machine learning models:
 
-Linear Regression
-K-Nearest Neighbors (KNN)
-Decision Tree Regressor
-Support Vector Regression (SVR)
-Gradient Boosting Regressor
-XGBoost Regressor
+Linear Regression,
+K-Nearest Neighbors (KNN),
+Decision Tree Regressor,
+Support Vector Regression (SVR),
+Gradient Boosting Regressor,
+XGBoost Regressor,
 Random forest Regressor( this model is in archive fomat in two zip files exact them to get this model)
 
