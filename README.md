@@ -57,3 +57,5 @@ Decision Tree Regressor
 Support Vector Regression (SVR)
 Gradient Boosting Regressor
 XGBoost Regressor
+Random forest Regressor( this model is in archive fomat in two zip files exact them to get this model)
+
